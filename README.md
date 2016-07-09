@@ -9,7 +9,7 @@ The parameters that you can pass to the program is:
 
 Os parâmetros que podem ser passados para o programa são:
 
-output:\<output_csv_path\> numofPages:\<num_of_pages_to_fetch\> offset:\<offset\> ano:\<year\> cargo:\<role\> partido:\<party\> estado:/<state\> municipio:\<city\> eleito:\<elect\>
+<i>output:\<output_csv_path\> numofPages:\<num_of_pages_to_fetch\> offset:\<offset\> ano:\<year\> cargo:\<role\> partido:\<party\> estado:/<state\> municipio:\<city\> eleito:\<elect\></i>
 
 Only output and numOfPages are required, the other arguments are opcional.
 Apeás output e numOfPages são obrigatórios.
